@@ -1,3 +1,4 @@
 The quick brown fox jumps over the lazy dog.
 Bright stars twinkle above the silent midnight lake.
 NEW LINE
+ANOTHER NEW LINE
